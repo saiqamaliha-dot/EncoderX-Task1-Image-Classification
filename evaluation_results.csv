@@ -1,0 +1,6 @@
+Metric,Value
+Test Accuracy,0.6922000050544739
+Test Loss,0.8747532367706299
+Macro Precision,0.7034
+Macro Recall,0.694
+Macro F1-Score,0.6868
